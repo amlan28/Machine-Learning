@@ -1,1 +1,1 @@
-SVC with Social Network csv in jupyter notebook
+SVM with Social Network csv in jupyter notebook
