@@ -1,2 +1,2 @@
-multivariate linear regression code with csv
+multivariate linear regression training and testing with csv
 all done in jupyter notebook
