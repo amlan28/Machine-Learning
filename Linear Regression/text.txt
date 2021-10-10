@@ -1,1 +1,2 @@
 multivariate linear regression code with csv
+all done in jupyter notebook
