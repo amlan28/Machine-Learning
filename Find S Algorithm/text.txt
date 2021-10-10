@@ -1,1 +1,2 @@
 find s algorithm 
+all done in jupyter notebook
