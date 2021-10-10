@@ -1,0 +1,1 @@
+SVC with Social Media csv in jupyter notebook
