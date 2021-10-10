@@ -1,0 +1,2 @@
+To Choose any medium size data sets having maximum 700 and above instances.
+To Use atleast five different learning algorithms and perform comparative analysis with various performance measures such as accuracy etc. 
