@@ -1,1 +1,2 @@
-random forest wit solution
+random forest with solution
+all done in jupyter notebook
