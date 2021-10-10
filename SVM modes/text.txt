@@ -1,0 +1,1 @@
+SVM modes with iris csv in jupyter notebook
